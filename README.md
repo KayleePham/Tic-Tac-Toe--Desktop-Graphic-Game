@@ -1,5 +1,5 @@
 # Iota Draconis - Desktop graphic game
-- Contributors: Kaylee Pham, Nafisa Habib, ShantMelikyan, Benyamin Carmeli, Sharon, Shifath Salam, Timothy Butler
+- Contributors: Kaylee Pham, Nafisa Habib, Shant Melikyan, Benyamin Carmeli, Shifath Salam, Timothy Butler, Sharon
 - Technologies: C++, SFML, GitLab, Agile Methodologies
 - The Board is composed of a 3 x 3 board
 - There are two players, X and Y, and X always has the first turn
