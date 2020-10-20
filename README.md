@@ -1,0 +1,14 @@
+# Iota Draconis - Desktop graphic game
+- Contributors: Kaylee Pham, Nafisa Habib, ShantMelikyan, Benyamin Carmeli, Sharon, Shifath Salam, Timothy Butler
+- Technologies: C++, SFML, GitLab, Agile Methodologies
+- First, users create usernames
+- The Board is composed of a 3 x 3 board
+- There are two players, X and Y. X always has the first turn
+- Users need to confirm their move
+- Two players alternating in making a move
+- After each move, the game result is evaluated. Once the game result is decided (either X wins, Y wins, or draw) no more moves are allowed
+- A player wins by getting three of their own marks in horizontal, vertical, or diagonal row
+- It also checks for ties
+- It shows winning Greetings
+- It has sound effects on every move and winning greetings
+- After winning, it gives options of Play Again or Quit
