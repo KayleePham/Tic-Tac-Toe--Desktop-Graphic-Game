@@ -1,4 +1,5 @@
-# Iota Draconis, Desktop graphic game, 8/2019-12/2019
+# Iota Draconis - 8/2019 to 12/2019
+- Desktop graphic game
 - Contributors: Kaylee Pham, Nafisa Habib, Shant Melikyan, Benyamin Carmeli, Shifath Salam, Timothy Butler, Sharon
 - Technologies: C++, SFML, GitLab, Agile Methodologies
 - The Board is composed of a 3 x 3 board
